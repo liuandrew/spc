@@ -1,0 +1,13 @@
+#app {
+	padding-top: 58px;
+}
+
+.col {
+	text-align: center;
+}
+
+.chart {
+	width: 400px;
+	height: 300px;
+	margin: auto;
+}
